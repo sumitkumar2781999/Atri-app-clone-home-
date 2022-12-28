@@ -1,0 +1,331 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "9dd69688-a4a4-4235-ae9c-59c3a0d09d1a",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "paddingTop": "15px",
+          "paddingBottom": "15px",
+          "paddingRight": "25px",
+          "paddingLeft": "25px",
+          "color": "#000000ff",
+          "backgroundColor": "#ff68a4ff",
+          "position": "absolute",
+          "left": null,
+          "right": 153,
+          "top": 7,
+          "zIndex": null
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "9dd69688-a4a4-4235-ae9c-59c3a0d09d1a",
+    "refId": "2ea88ab6-648e-459c-b6c1-c2bec5ebdca3"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "97fc44aa-edab-4335-8a1b-61a6079090e4",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Book a call"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "97fc44aa-edab-4335-8a1b-61a6079090e4",
+    "refId": "2ea88ab6-648e-459c-b6c1-c2bec5ebdca3"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "2d618499-7d31-4deb-9036-7356de366f45",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "backgroundColor": "#000000",
+          "color": "#ffffff",
+          "paddingTop": "15px",
+          "paddingBottom": "15px",
+          "paddingLeft": "25px",
+          "paddingRight": "25px",
+          "marginRight": "15px",
+          "zIndex": 1
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "2d618499-7d31-4deb-9036-7356de366f45",
+    "refId": "fa881de4-a83f-4ef1-bf6b-c72c74172fa5"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "3792983a-a070-4828-afad-2cc029c27bd6",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Book a call",
+          "url": "/"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "3792983a-a070-4828-afad-2cc029c27bd6",
+    "refId": "fa881de4-a83f-4ef1-bf6b-c72c74172fa5"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "6df2e61b-3a1e-47da-a8f5-2203e075d484",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "color": "#000000",
+          "marginLeft": "15px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "6df2e61b-3a1e-47da-a8f5-2203e075d484",
+    "refId": "95e0f25b-6e3e-44e3-82f6-989ab6f54b81"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "fa6c87f7-5830-4cbf-894c-5bce1ab65222",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "Download CV ->",
+          "url": "/"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "fa6c87f7-5830-4cbf-894c-5bce1ab65222",
+    "refId": "95e0f25b-6e3e-44e3-82f6-989ab6f54b81"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "4fd333cb-3b67-4356-a7ab-a8bb5e30e608",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "fontFamily": "Plus Jakarta Sans",
+          "fontWeight": 700,
+          "alignItems": "center",
+          "position": "absolute"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "4fd333cb-3b67-4356-a7ab-a8bb5e30e608",
+    "refId": "38159cc6-c9da-41d9-af3c-6b262e2f1d99"
+  },
+  {
+    "id": "30e77c59-9120-4e51-bbbb-ba90a8ec3b21",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "2ea88ab6-648e-459c-b6c1-c2bec5ebdca3",
+    "childId": "30e77c59-9120-4e51-bbbb-ba90a8ec3b21"
+  },
+  {
+    "id": "f085d839-b7c5-45b1-b693-47531dd5305c",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "fa881de4-a83f-4ef1-bf6b-c72c74172fa5",
+    "childId": "f085d839-b7c5-45b1-b693-47531dd5305c"
+  },
+  {
+    "id": "8996eb90-7796-462e-8a4e-aff9925da719",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "95e0f25b-6e3e-44e3-82f6-989ab6f54b81",
+    "childId": "8996eb90-7796-462e-8a4e-aff9925da719"
+  },
+  {
+    "id": "0553e956-921f-4e57-a9d7-7c64f20718e2",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "38159cc6-c9da-41d9-af3c-6b262e2f1d99",
+    "childId": "0553e956-921f-4e57-a9d7-7c64f20718e2"
+  },
+  {
+    "id": "2ea88ab6-648e-459c-b6c1-c2bec5ebdca3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "38159cc6-c9da-41d9-af3c-6b262e2f1d99",
+        "index": 1.75
+      },
+      "alias": "TextBox14"
+    }
+  },
+  {
+    "id": "fa881de4-a83f-4ef1-bf6b-c72c74172fa5",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Link",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "38159cc6-c9da-41d9-af3c-6b262e2f1d99",
+        "index": 1.5
+      },
+      "alias": "Link9"
+    }
+  },
+  {
+    "id": "95e0f25b-6e3e-44e3-82f6-989ab6f54b81",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Link",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "38159cc6-c9da-41d9-af3c-6b262e2f1d99",
+        "index": 2
+      },
+      "alias": "Link8"
+    }
+  },
+  {
+    "id": "38159cc6-c9da-41d9-af3c-6b262e2f1d99",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex7"
+    }
+  }
+]
